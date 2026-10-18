@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/gristlabs/asttokens/commit/f97a6e1403d9f0e93940a11b507524550a5c3896",
       "git:hexsha": "f97a6e1403d9f0e93940a11b507524550a5c3896",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v3.0.2"
     },
     {
